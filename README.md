@@ -1,6 +1,6 @@
 ### Hi there 👋, Sonny Monroe
 #### I am Learning to be a Blockchain Developer
-![I am Learning to be a Blockchain Developer](https://pbs.twimg.com/profile_banners/1482843857943412743/1650832441/1500x500)
+![I am Learning to be a Blockchain Developer](![StargazersBanner2](https://user-images.githubusercontent.com/104036330/179635361-0f0f5d4c-df63-4128-a852-b9ed006cf846.jpg))
 
 Hello World!
 
