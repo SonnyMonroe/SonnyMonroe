@@ -1,13 +1,15 @@
-Hello World! 
+Hello World!
 
-Welcome to my Github!  
+Welcome to my Github!
 
-My name is Michael Abramo, and I am here because I eat, sleep, and breathe Decentralized Finance. I am an aspiring Blockchain Developer who's here to fight for a more honest and transparent economic future that works for everyone, not just the Top 1%. 
+My name is Sonny Monroe, and I am here because I eat, sleep, and breathe Decentralized Finance. I am an aspiring Blockchain Developer here to fight for a more honest and transparent economic future that works for everyone, not just the Top 1%.
 
-I have been in crypto since November 2021, where I dabble in various DeFi protocols providing liquidity, yield farming, and endlessly exploring the limitless possibilities that blockchain technology enables. I am from Boston, Massachusetts, where I hope to broaden my knowledge of Decentralized Finance and master the programming skills needed for building the next generation of disruptive web3 technology.  
+I have been in crypto since November 2021, where I dabble in various DeFi protocols providing liquidity, yield farming, and endlessly exploring the limitless possibilities that blockchain technology enables. I am from Boston, Massachusetts, where I hope to broaden my knowledge of Decentralized Finance and master the programming skills needed for building the next generation of disruptive web3 technology.
 
-That is all for now. If you are interested in saying hello or following my progress, feel free to follow me on my GitHub and Twitter!
+That is all for now. If you are interested in saying hello or following my progress, feel free to follow me on my [Github](https://github.com/SonnyMonroe) and [Twitter](https://twitter.com/SonnyTheDegen)!
 
 Onwards!
 
--Michael Abramo 
+-Sonny Monroe
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonnyMonroe)](https://github.com/anuraghazra/github-readme-stats)
