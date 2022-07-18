@@ -1,3 +1,7 @@
+### Hi there 👋, Sonny Monroe
+#### I am Learning to be a Blockchain Developer
+![I am Learning to be a Blockchain Developer](https://pbs.twimg.com/profile_banners/1482843857943412743/1650832441/1500x500)
+
 Hello World!
 
 Welcome to my Github!
@@ -13,3 +17,7 @@ Onwards!
 -Sonny Monroe
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonnyMonroe)](https://github.com/anuraghazra/github-readme-stats)
+
+Skills: REACT / JS / HTML / CSS / SQL / SOLIDITY
+
+- 🔭 I’m currently working on this page. 
