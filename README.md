@@ -1,10 +1,8 @@
-### Hi there 👋, Sonny Monroe
-#### I am Learning to be a Blockchain Developer
-![I am Learning to be a Blockchain Developer](![StargazersBanner2](https://user-images.githubusercontent.com/104036330/179635361-0f0f5d4c-df63-4128-a852-b9ed006cf846.jpg))
+![I am Learning to be a Blockchain Developer](https://pbs.twimg.com/profile_banners/1482843857943412743/1650832441/1500x500)
 
-Hello World!
+## Hello World!
 
-Welcome to my Github!
+### Welcome to my Github!
 
 My name is Sonny Monroe, and I am here because I eat, sleep, and breathe Decentralized Finance. I am an aspiring Blockchain Developer here to fight for a more honest and transparent economic future that works for everyone, not just the Top 1%.
 
@@ -16,8 +14,29 @@ Onwards!
 
 -Sonny Monroe
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonnyMonroe)](https://github.com/anuraghazra/github-readme-stats)
+## Skills and Experience
 
-Skills: REACT / JS / HTML / CSS / SQL / SOLIDITY
+* 💻 HTML / CSS / JavaScript
+* 📈 SQL
+* 🐍PYTHON
+* 🔹 SOLIDITY
+* ⚛️ REACT
+* 🥾 BOOTSTRAP
+* 🦊METAMASK
 
-- 🔭 I’m currently working on this page. 
+### MISQ
+
+- 🔭 I’m currently working on Reactive Web Applications 
+- 🌱 I’m currently learning JavaScript Programming 
+- 👯 I’m looking to collaborate on Dapps
+- 💬 Ask me about DeFi, Blockchain & DAO's 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SonnyMonroe) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SonnyTheDegen)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonnyMonroe)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SonnyMonroe&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SonnyMonroe)  
+
+![Profile views](https://gpvc.arturio.dev/SonnyMonroe)  
