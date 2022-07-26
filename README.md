@@ -23,6 +23,7 @@ Onwards!
 * ⚛️ REACT
 * 🥾 BOOTSTRAP
 * 🦊METAMASK
+* 🌐Virtual Machines
 
 ### MISQ
 
