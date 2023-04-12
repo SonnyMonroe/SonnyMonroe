@@ -4,7 +4,7 @@
 
 ### Welcome to my Github!
 
-My name is Sonny Monroe, and I am here because I eat, sleep, and breathe Decentralized Finance. I am an aspiring Blockchain Developer here to fight for a more honest and transparent economic future that works for everyone, not just the Top 1%.
+My name is Mike Abramo, and I am here because I eat, sleep, and breathe Decentralized Finance. I am an aspiring Blockchain Developer here to fight for a more honest and transparent economic future that works for everyone.
 
 I have been in crypto since November 2021, where I dabble in various DeFi protocols providing liquidity, yield farming, and endlessly exploring the limitless possibilities that blockchain technology enables. I am from Boston, Massachusetts, where I hope to broaden my knowledge of Decentralized Finance and master the programming skills needed for building the next generation of disruptive web3 technology.
 
@@ -12,7 +12,7 @@ That is all for now. If you are interested in saying hello or following my progr
 
 Onwards!
 
--Sonny Monroe
+-Mike Abramo
 
 ## Skills and Experience
 
@@ -24,6 +24,7 @@ Onwards!
 * 🥾 BOOTSTRAP
 * 🦊METAMASK
 * 🌐Virtual Machines
+
 
 ### MISQ
 
