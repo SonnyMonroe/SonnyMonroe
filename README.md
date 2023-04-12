@@ -29,7 +29,7 @@ Onwards!
 - 📦NPM
 - 📈 SQL
 - 🐧Linux
-- 🔹SOLIDITY
+- 🔹Solidity
 - 👷Hardhat
 - 🏗️EthersJS
 - 🦊METAMASK
