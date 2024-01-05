@@ -4,7 +4,7 @@
 
 </div>
 
-<h2 align="center">Hi 👋! I'm <span style="color: #2285f4; text-decoration: underline; animation: blink 1.5s infinite;">Mike Abramo</span></h2>
+<h2 align="center">Hi 👋! I'm <span style="color: #2285f4; text-decoration: underline; animation: blink 1s infinite;">Mike Abramo</span></h2>
 <h3 align="center">Blockchain Developer🌐</h3> 
 <h3 align="center">Boston, MA ☘️</h3>
 
