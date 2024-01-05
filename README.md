@@ -1,6 +1,6 @@
 <div align="center">
 
-[![MasterHead](img/banner.gif)](https://blogbytes.eth.limo)
+[![MasterHead](/banner.gif)](https://blogbytes.eth.limo)
 
 </div>
 
