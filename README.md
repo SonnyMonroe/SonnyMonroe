@@ -27,7 +27,11 @@
   <a href="https://codepen.io/sonnymonroe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo" />
   </a>
-
+  
+   <a href="https://mabramo-linktree.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" height="35" alt="medium logo" />
+  </a>
+  
   <a href="https://medium.com/@mabramo11" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
   </a>
