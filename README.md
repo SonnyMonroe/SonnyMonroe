@@ -2,6 +2,7 @@
 
 [![MasterHead](/banner.gif)](https://blogbytes.eth.limo)
 
+
 </div>
 
 <h1 align="center">Hi 👋! I'm <span style="color: #4285f4; text-decoration: underline; animation: blink 1s infinite;">Mike Abramo</span></h1>
@@ -43,8 +44,8 @@
 <div>
 <td style="width: 10%;"></td> 
   <h1 align="center"> 
-  <img src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" alt="projects gif" height="40" style="margin-right: 100px;"/>
-    <span> Projects </span> <img src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" alt="projects gif" height="40" style="margin-left: 100px;"/>
+<img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYxMTI3MjcsIm5iZiI6MTcyNjExMjQyNywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEyVDAzNDAyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1ODlhMGQ3Y2EzODkzZGJkZmE1ZTBkM2ZiNWUyODIxMWRhYjIwYmRjMGI2YTdkMGI2NGEzN2EyZmQyYzNkNzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.i_i9AXAJVkPKwn5-MZj9V5O29I_NLWLRvuEMnTM2JBU" alt="projects gif" height="40" style="margin-left: 100px;"/>
+    <span> Projects </span> <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYxMTI3MjcsIm5iZiI6MTcyNjExMjQyNywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEyVDAzNDAyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1ODlhMGQ3Y2EzODkzZGJkZmE1ZTBkM2ZiNWUyODIxMWRhYjIwYmRjMGI2YTdkMGI2NGEzN2EyZmQyYzNkNzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.i_i9AXAJVkPKwn5-MZj9V5O29I_NLWLRvuEMnTM2JBU" alt="projects gif" height="40" style="margin-left: 100px;"/>
   </h1>
 <table align="center" style="column-gap: 20px;">
 	<tr>
@@ -74,7 +75,8 @@
 
 <hr />
 
-# 💻Tech Stack
+# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  height="30" alt="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md"  /> Tech Stack  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  height="30" alt="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md" />
+
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 <div align="left">
@@ -87,6 +89,10 @@
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+<!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gitbook.svg" />
+  <img width="12" /> -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gitbook/gray" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
@@ -112,7 +118,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg' height="30" alt="svelte logo"/> 
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="30" alt="webpack logo"  />
   <img width="12" />
@@ -139,6 +145,8 @@
   <img src="https://cdn.simpleicons.org/codepen/fff" height="30" alt="codepen logo"  />
     <img width="12" />
  <img src="https://cdn.simpleicons.org/notion/fff" height="25" alt="codepen logo"  />
+	<!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gitbook.svg" />
+  <img width="12" /> -->
 </div>
 <hr />
 
