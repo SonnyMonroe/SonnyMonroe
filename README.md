@@ -82,7 +82,7 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="30" alt="css3 logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -92,7 +92,7 @@
   <img width="12" />
 <!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gitbook.svg" />
   <img width="12" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/gitbook/gray" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gitbook/BBDDE5" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
