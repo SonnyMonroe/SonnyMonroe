@@ -142,11 +142,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/codepen/fff" height="30" alt="codepen logo"  />
-    <img width="12" />
- <img src="https://cdn.simpleicons.org/notion/fff" height="25" alt="codepen logo"  />
-	<!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gitbook.svg" />
-  <img width="12" /> -->
+  <img src="https://cdn.simpleicons.org/shadcnui/fff" height="28" alt="shadcn logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/notion/fff" height="30" alt="notion logo"  />
+  <img width="12" />
 </div>
 <hr />
 
@@ -154,17 +153,17 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://visitcount.itsvg.in/api?id=sonnymonroe&icon=0&color=9" alt=https://visitcount.itsvg.in />
+<!-- <img src="https://visitcount.itsvg.in/api?id=sonnymonroe&icon=0&color=9" alt="https://visitcount.itsvg.in" /> -->
 </div>
 
-<table align="center" style="column-gap: 20px;">
+<table align="start" style="column-gap: 20px;">
   <tr>
     <td align="center" style="width: 48%;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonnymonroe&theme=tokyonight&hide_border=false" alt="GitHub Streak">
     </td>
-    <td style="width: 4%;"></td> 
+    <!-- <td style="width: 4%;"></td> 
     <td align="center" style="width: 48%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnymonroe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-    </td>
+    </td> -->
   </tr>
 </table>
